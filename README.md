@@ -1,8 +1,10 @@
 ### Hej!
 
-Jag är en blivande webbutvecklare som läser webbutvecklings-programmet vid Mittuniversitetet i Sundsvall. I skrivande stund har vi precis påbörjat termin 2 och utbildnignen avslutas till sommaren 2023. Efter avslutad utbilning hoppas jag vara på god väg till att bli en full-stack utvecklare!
+Jag är en blivande webbutvecklare som läser webbutvecklings-programmet vid Mittuniversitetet i Sundsvall. I skrivande stund har vi precis påbörjat termin 2 och utbildnignen avslutas till sommaren 2023. Efter avslutad utbildning hoppas jag vara på god väg till att bli en full-stack utvecklare!
 
-Detta konto kommer att användas i studiesyfte och planen är att samla mina olika projekt inom utbildningen här.
+Detta konto kommer att användas i studiesyfte och planen är att samla mina olika projekt inom utbildningen här. 
+
+URL till min GitHub-profil **<https://github.com/Hasselstudent>**.
 
 **// Johan Hasselrot**
 
