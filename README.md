@@ -6,6 +6,6 @@ Detta konto kommer att användas i studiesyfte och planen är att samla mina oli
 
 **// Johan Hasselrot**
 
-Vill man kontakta mig nås jag via min **[epost](joha2117@student.miun.se)**.
+Vill man kontakta mig nås jag via min **[E-post](mailto:joha2117@student.miun.se)**.
 
 Lev väl!
