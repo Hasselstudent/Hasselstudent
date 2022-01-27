@@ -4,8 +4,6 @@ Jag är en blivande webbutvecklare som läser webbutvecklings-programmet vid Mit
 
 Detta konto kommer att användas i studiesyfte och planen är att samla mina olika projekt inom utbildningen här. 
 
-URL till min GitHub-profil **<https://github.com/Hasselstudent>**.
-
 **// Johan Hasselrot**
 
 Vill man kontakta mig nås jag via min **[E-post](mailto:joha2117@student.miun.se)**.
